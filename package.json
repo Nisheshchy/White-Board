@@ -1,0 +1,9 @@
+{
+ 
+
+        
+        
+          "scripts": {
+            "start": "tsx ./index.tsx"
+          }
+ }
