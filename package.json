@@ -1,9 +1,108 @@
 {
  
 
+       "scripts": {
+ 
+
         
+
+       "start": "tsx ./index.tsx"
+ 
+
+       },
+ 
+
+       "name": "whiteboard",
+ 
+
+       "version": "1.0.0",
+ 
+
+       "description": "",
+ 
+
+       "main": "index.js",
+ 
+
+       "dependencies": {
+ 
+
         
-          "scripts": {
-            "start": "tsx ./index.tsx"
-          }
- }
+
+       "csstype": "^3.1.3",
+ 
+
+        
+
+       "esbuild": "^0.25.9",
+ 
+
+        
+
+       "fsevents": "^2.3.3",
+ 
+
+        
+
+       "get-tsconfig": "^4.10.1",
+ 
+
+        
+
+       "react": "^19.1.1",
+ 
+
+        
+
+       "resolve-pkg-maps": "^1.0.0",
+ 
+
+        
+
+       "tsx": "^4.20.5"
+ 
+
+       },
+ 
+
+       "devDependencies": {},
+ 
+
+       "repository": {
+ 
+
+        
+
+       "type": "git",
+ 
+
+        
+
+       "url": "git+https://github.com/Nisheshchy/White-Board.git"
+ 
+
+       },
+ 
+
+       "keywords": [],
+ 
+
+       "author": "Nishesh",
+ 
+
+       "license": "ISC",
+ 
+
+       "bugs": {
+ 
+
+        
+
+       "url": "https://github.com/Nisheshchy/White-Board/issues"
+ 
+
+       },
+ 
+
+       "homepage": "https://github.com/Nisheshchy/White-Board#readme"
+}
